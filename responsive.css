@@ -1,0 +1,24 @@
+@media screen and (max-width:985px) {
+    .sign{
+       margin-left: 0px;
+    }
+    h1{margin-left: 200px;
+        margin-top: 0;
+
+    }
+
+}
+@media screen and (max-width:720px) {
+ h1{
+    position: static;
+    margin-left: 0;
+    margin-top: 500px;
+}
+}
+@media screen and (max-width:480px) {
+    .sign{
+        width: 100%;
+    }
+
+
+}
